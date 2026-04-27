@@ -11,8 +11,7 @@
 <p align="left">✨ Ive been coding since I was 13 Years old, I branched out into working with Network Fiddling aswell as Pen-Testing. Ive been a very backend focused developer from both sides defensive / offensive along with just all around tools and different projects from A-Z working on Bots on discord / telegram, to high concurrent network tools, to even complex algorithmic systems and even breaking them down.  C 
  
   <br>📚 I'm currently learning Java and trying to become more of a full-stack developer, then going to branch out into the cyber security scene, eventulally into being an AppSec Engineer. 
-  
-  <br>🎯 Goals: To be accepted into Waterloo University by 2028, I am currently 19 but I have been self-employed while maintaining multiple businesses and keeping a steady income / healty life balance. But I got some clarity & I really want to branch out into the world of CS & CyberSec <br></p>
+  </p>
 
 ###
 
