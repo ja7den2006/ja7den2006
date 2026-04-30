@@ -1,8 +1,4 @@
-###
 
-<p align="left">Hey! My name is Jayden and I'm currently studying to become an AppSec Engineer, I currently Live in Toronto / Oakville</p>
-
-###
 
 
 
