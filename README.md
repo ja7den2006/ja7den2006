@@ -4,16 +4,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Ive been coding since I was 13 Years old, I branched out into working with Network Fiddling aswell as Pen-Testing. Ive been a very backend focused developer from both sides defensive / offensive along with just all around tools and different projects from A-Z working on Bots on discord / telegram, to high concurrent network tools, to even complex algorithmic systems and even breaking them down.  C 
- 
-  <br>📚 I'm currently learning Java and trying to become more of a full-stack developer, then going to branch out into the cyber security scene, eventulally into being an AppSec Engineer. 
-  </p>
-
-###
 
 <h2 align="left">I code with</h2>
 
