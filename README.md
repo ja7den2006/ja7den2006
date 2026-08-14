@@ -1,27 +1,33 @@
+[![Website / Portfolio](https://img.shields.io/badge/Website%20%2F%20Portfolio-2563EB?style=for-the-badge&logoColor=white)](https://jayden.rip) ![Profile Views](https://komarev.com/ghpvc/?username=ja7den2006&color=blue&style=for-the-badge&label=Profile+Views)
 
 
+> 
+> **Hey, I'm Jayden!**
+> 
+> You can find more info on me at my [portfolio](https://jayden.rip) :)
 
+## About Me
 
-<h2 align="left">I code with</h2>
+```javascript
+const jayden = {
+  pronouns: "he" | "him",
+  languages: [Python, Golang, Java, JavaScript],
+  tools: ["React", "React Native", "Vite", "Next.js", "Browser Use",
+          "FastAPI", "Vercel", "Tailwind CSS", "& Many More"],
+  
+  architecture: ["web agents", "multi-agent systems", "RAG systems", "AI orchestration",
+               "cross-platform apps", "browser extensions", "browser automation",
+               "real-time systems", "event-driven systems", "secure API design",
+               "threat modeling", "secure SDLC", "security automation",
+               "authentication systems", "CI/CD security", "supply-chain security",
+               "attack surface management", "security testing pipelines"],
+  career: {
+    title: "Application Security Engineer",
+  },
 
-###
+  goals: `To do more in life`,
+  hobbies: ["Eating ALOT of new food", "travelling", "cooking", "reading", "gym", "sports",
+            "going around the city doing nothing and listening to music"]
+}
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/go@0.0.0/go_256x256.png" height="40" alt="golang logo"  />
-</div>
-
-###
+```
